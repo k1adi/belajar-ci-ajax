@@ -10,7 +10,6 @@ class Main_controller extends CI_Controller {
 
 	public function index()
 	{
-        // echo 'Selamat datang kuncen';
         $this->load->view('index');
     }
     
